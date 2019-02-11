@@ -98,4 +98,5 @@
     <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <plugin name="cordova-plugin-email-composer" spec="^0.8.15" />
     <engine name="android" spec="6.3.0" />
+    <engine name="ios" spec="4.5.5" />
 </widget>
